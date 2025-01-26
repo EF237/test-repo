@@ -13,3 +13,5 @@ Here is some new text I am adding from the shell to update the README file.
 Here is some new text I am adding from the GitHub to update the README file.
 
 Here is some new text I am adding from R Studio to update the README file.
+
+Here is some new text I am adding from the GitHub to update the README file.
